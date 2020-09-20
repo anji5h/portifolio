@@ -1,0 +1,135 @@
+{
+  "main": {
+    "name": "Anjish Panta",
+    "description": "Junior Full Stack Web Developer",
+    "image": "profilepic.jpg",
+    "bio": "High-energy student currently persuing Bachelor in Computer Science and Information Technology and prepared to contribute abilities to Full stack development while further developing acquired skill and gaining real world experience.",
+    "contactmessage": "",
+    "email": "j.panta123@gmail.com",
+    "phone": "977-9860884256",
+    "github": "https://github.com/anji5h",
+    "project": "https://github.com/anji5h?tab=repositories",
+    "address": {
+      "street": "",
+      "city": "Kathmandu",
+      "state": "Bagmati",
+      "zip": "44600"
+    },
+    "resumedownload": "https://res.cloudinary.com/anji5h/image/upload/v1600429466/resume/Anjish_s_Resume_pcd1sc.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/Anji5h/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/PantaAnjish",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/anjish-panta-1b737416a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/anji5h",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Tribhuwan University",
+        "degree": "Bsc.CSIT",
+        "graduated": "Persuing",
+        "description": ""
+      },
+      {
+        "school": "Kathmandu Model High School",
+        "degree": "Highschool Degree",
+        "graduated": "March 2017",
+        "description": ""
+      },
+      {
+        "school": "Fluorescent School",
+        "degree": "SLC",
+        "graduated": "March 2015",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "BroadWay Infosys",
+        "title": "MERN stack training",
+        "years": "February 2020 - March-2020",
+        "description": "Developed user interface with modern Javascript frameworks, HTML5, CSS3. Worked on e-commerce shopping web-application that provide online shopping experience using MERN stack"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Javascript",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "75%"
+      },
+      {
+        "name": "ExpressJs",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      },
+      {
+        "name": "C/C++",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Ecommerce app",
+        "category": "MERN  based Online shopping web application",
+        "image": "ecommerce.png",
+        "url": "https://github.com/anji5h/anji5hestore"
+      },
+      {
+        "title": "Twitter Clone",
+        "category": "MERN based Twitter clone project",
+        "image": "twitter-clone.png",
+        "url": "https://github.com/anji5h/twitter"
+      },
+      {
+        "title": "Covid-19 tracker",
+        "category": "Website I built to track covid-19 statistics",
+        "image": "covid19.png",
+        "url": "https://github.com/anji5h/covid19"
+      },
+      {
+        "title": "Live Video streaming",
+        "category": "A React based live video streaming",
+        "image": "livestream.png",
+        "url": "https://github.com/anji5h/react-stream"
+      }
+    ]
+  }
+}
